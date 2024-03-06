@@ -1,4 +1,4 @@
-# Data Engineering Tool Box [![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/sindresorhus/awesome)
+# Data Engineering Tool Box
 
 > Explore a comprehensive compilation of essential tools for Data Engineering with DataEngineerToolbox. This curated list on GitHub encompasses a diverse range of resources, frameworks, and utilities to streamline and enhance your data engineering projects.
 
